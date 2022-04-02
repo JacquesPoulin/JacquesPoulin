@@ -1,8 +1,7 @@
 
 <h1 align="center">Hello World 👋 I'm Jacques Poulin !</h1>
-<h3 align="center">A passionate web developer student from South of France</h3>
-
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+<h3 align="center">A passionate web developer student from France</h3>
+<br>
 
 ![Profile views](https://gpvc.arturio.dev/JacquesPoulin)
 
