@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello World 👋 I'm Jacques Poulin !</h1>
+<h1 align="center">Hi, 👋 I'm Jacques Poulin !</h1>
 <h3 align="center">A passionate web developer student from France</h3>
 <br>
 
