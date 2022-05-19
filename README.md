@@ -26,8 +26,6 @@
 
 <br>
 
-<h2>MY STATS</h2>
-
 ![Jacques's github stats](https://github-readme-stats.vercel.app/api?username=JacquesPoulin&theme=blue-green)
 
 [![Jacques's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JacquesPoulin&theme=blue-green)](https://github.com/JacquesPoulin/JacquesPoulin)
