@@ -114,7 +114,7 @@
 
 <hr>
 
-<h2 align="left">CONNECT WITH ME :</h2> 
+<h2 align="left">CONTACT ME :</h2> 
 
   ![](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/JacquesPoulin?tab=repositories)
@@ -125,6 +125,5 @@
 
 📫 How to reach me : 
 
-   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=jacques.poulin64@gmail.com)
-   [![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/64FrontDev)
+   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=jacques.poulin64@gmail.com) : jacques.poulin64@gmail.com
 </p>
