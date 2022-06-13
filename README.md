@@ -3,13 +3,16 @@
 <h3 align="center">A passionate web developer student from France</h3>
 <br>
 
+
 ![Profile views](https://gpvc.arturio.dev/JacquesPoulin)
 
 ![Follows](https://img.shields.io/github/followers/JacquesPoulin.svg?style=social&label=Follow&maxAge=2592000)
 ![GitHub stars](https://img.shields.io/github/stars/JacquesPoulin?style=social)
 
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacquespoulin" alt="jacquespoulin" /></a></p>
+
 <br>
 
 - 🔭 I’m currently studyinging **Web developpment at the <a href="https://www.wildcodeschool.com/en-GB" target="blank">" Wild Code School "</a>**
@@ -31,6 +34,8 @@
 [![Jacques's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JacquesPoulin&theme=blue-green)](https://github.com/JacquesPoulin/JacquesPoulin)
 
 [![Jacques's github streak](https://github-readme-streak-stats.herokuapp.com/?user=JacquesPoulin&theme=blue-green)](https://github.com/JacquesPoulin/JacquesPoulin)
+
+[![Profile badge](https://www.codewars.com/users/64Dev/badges/large)](https://www.codewars.com/users/64Dev)
 
 <br> <hr>
 
