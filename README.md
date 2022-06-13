@@ -30,7 +30,7 @@
 
 [![Jacques's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JacquesPoulin&theme=blue-green)](https://github.com/JacquesPoulin/JacquesPoulin)
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=JacquesPoulin&theme=blue-green)](https://github.com/JacquesPoulin/JacquesPoulin)
+[![Jacques's github streak](https://github-readme-streak-stats.herokuapp.com/?user=JacquesPoulin&theme=blue-green)](https://github.com/JacquesPoulin/JacquesPoulin)
 
 <br> <hr>
 
