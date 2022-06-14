@@ -35,7 +35,7 @@
 
 [![Jacques's github streak](https://github-readme-streak-stats.herokuapp.com/?user=JacquesPoulin&theme=blue-green)](https://github.com/JacquesPoulin/JacquesPoulin)
 
-[![Profile badge](https://www.codewars.com/users/64Dev/badges/large)](https://www.codewars.com/users/64Dev)
+[![Profile badge](https://www.codewars.com/users/Jacko64/badges/large)](https://www.codewars.com/users/Jacko64)
 
 <br> <hr>
 
