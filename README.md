@@ -9,7 +9,7 @@
 ![Follows](https://img.shields.io/github/followers/JacquesPoulin.svg?style=social&label=Follow&maxAge=2592000)
 ![GitHub stars](https://img.shields.io/github/stars/JacquesPoulin?style=social)
 
-
+[![Profile badge](https://www.codewars.com/users/Jacko64/badges/large)](https://www.codewars.com/users/Jacko64)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacquespoulin" alt="jacquespoulin" /></a></p>
 
@@ -29,13 +29,12 @@
 
 <br>
 
+
 ![Jacques's github stats](https://github-readme-stats.vercel.app/api?username=JacquesPoulin&theme=blue-green)
 
 [![Jacques's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JacquesPoulin&theme=blue-green)](https://github.com/JacquesPoulin/JacquesPoulin)
 
 [![Jacques's github streak](https://github-readme-streak-stats.herokuapp.com/?user=JacquesPoulin&theme=blue-green)](https://github.com/JacquesPoulin/JacquesPoulin)
-
-[![Profile badge](https://www.codewars.com/users/Jacko64/badges/large)](https://www.codewars.com/users/Jacko64)
 
 <br> <hr>
 
@@ -70,34 +69,6 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-<h3>ALWAYS IMPROVING MY SKILLS</h3>
-
-![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
-![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
-![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
-
-<h3>NEXT LEARNING STEPS</h3>
-
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) -->
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) -->
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-
-<h3>MY FAVORITE TECH WEBSITES & APP</h3>
-
-![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-</p>
-
-<h3>TO COLLABORATE</h3>
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JacquesPoulin)
 
 <hr>
 
