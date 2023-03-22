@@ -15,11 +15,11 @@
 
 <br>
 
-- 🔭 I’m currently studyinging **Web developpment at the <a href="https://www.wildcodeschool.com/en-GB" target="blank">" Wild Code School "</a>**
+- 🔭 I’m currently working in a company as a **Full Stack Developper **
 
 - 🌱 I’m **a collaborative and curious person with a thirst for learning**
 
-- 👯 I’m looking to collaborate on **beginners friendly open source projects & code reviews**
+- 👯 I’m looking to collaborate on **open source projects & code reviews**
 
 - 👨‍💻 All of my projects are available on :
 
