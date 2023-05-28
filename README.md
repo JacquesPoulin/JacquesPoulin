@@ -22,6 +22,8 @@
 
 - 👯 I’m looking to collaborate on **open source projects & code reviews**
 
+- 🌱 I’m currently learning : Next.js
+
 - 👨‍💻 All of my projects are available on :
 
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JacquesPoulin)
@@ -38,6 +40,12 @@
 [![Jacques's github streak](https://github-readme-streak-stats.herokuapp.com/?user=JacquesPoulin&theme=blue-green)](https://github.com/JacquesPoulin/JacquesPoulin)
 
 <br> <hr>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacquespoulin&show_icons=true&locale=en&layout=compact" alt="jacquespoulin" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jacquespoulin&show_icons=true&locale=en" alt="jacquespoulin" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacquespoulin&" alt="jacquespoulin" /></p>
 
 <h3>SKILLS</h3>
 <p align="left">
