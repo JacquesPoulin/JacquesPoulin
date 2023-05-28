@@ -61,7 +61,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo" title="REACT" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo" title="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="30" width="42" alt="storybook logo" title="StoryBook" />
-</div>
   <br>
   <p>Backend Development</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="30" width="42" alt="nodejs" title="NodeJS"/>
@@ -85,7 +84,7 @@
   <br>
   <p>BaaS</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="42" alt="firebase logo" title="Firebase" />
-
+</div>
 
 ![Snake animation](https://github.com/JacquesPoulin/JacquesPoulin/blob/output/github-contribution-grid-snake.svg)
 
