@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi, 👋 I'm Jacques Poulin !</h1>
-<h3 align="center">A passionate Full Stack developer from France</h3>
+<h3 align="center">A passionate web developer from France</h3>
+<img align="right" height="250" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif"  />
 <br>
 
 
