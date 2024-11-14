@@ -1,34 +1,27 @@
+# Bonjour, je suis Jacques Poulin ! 👋
 
-<h1 align="center">Hi, 👋 I'm Jacques Poulin !</h1>
-<h3 align="center">A passionate web developer from France</h3>
-<img align="right" height="250" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif"  />
+**Développeur Full-Stack passionné**
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JacquesPoulin&color=blue" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/JacquesPoulin?style=social" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/JacquesPoulin?style=social" alt="Stars"/>
+  
+  [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/JacquesPoulin?tab=repositories)
+</div>
+
+## À propos de moi 🚀
+
+Développeur Full-Stack au sein d'un entreprise depuis 2022, je combine ma passion pour le code avec mon amour pour le sport et la musique. Basé dans le sud de la France, je m'épanouis dans la création d'applications web innovantes et de SASS, tout en profitant de la vie au Pays Basque avec ma famille.
+
+**🌟 Points forts :**
+- 💻 Expertise en React / Node.js et Python / Django
+- 🎯 Développement d'applications et de SASS
+- 🌎 Passionné de voyages et de nouvelles technologies
+
 <br>
-
-
-![Profile views](https://gpvc.arturio.dev/JacquesPoulin)
-
-![Follows](https://img.shields.io/github/followers/JacquesPoulin.svg?style=social&label=Follow&maxAge=2592000)
-![GitHub stars](https://img.shields.io/github/stars/JacquesPoulin?style=social)
-
-[![Profile badge](https://www.codewars.com/users/Jacko64/badges/large)](https://www.codewars.com/users/Jacko64)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacquespoulin" alt="jacquespoulin" /></a></p>
-
-<br>
-
-- 🔭 I’m currently working in a company as a **Full Stack Developper **
-
-- 🌱 I’m **a collaborative and curious person with a thirst for learning**
-
-- 👯 I’m looking to collaborate on **open source projects & code reviews**
-
-- 🌱 I’m currently learning : Next.js
-
-- 👨‍💻 All of my projects are available on :
-
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JacquesPoulin)
-
-  [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/JacquesPoulin?tab=repositories)
 
 <br>
 
@@ -43,61 +36,34 @@
 
 <h2 align="left">LANGUAGES & TOOLS</h2> 
 
-<div align="left">
-  <p>Basics</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo" title="Linux"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo" title="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo" title="CSS" />
-  <br>
-  <p>Programming Languages</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo" title="Javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo" title="Typescript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo" title="Typescript" />
-  <br>
-  <p>Frontend Development</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="42" alt="sass logo" title="SASS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" width="42" alt="tailwindcss logo" title="Tailwind CSS">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo" title="REACT" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo" title="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="30" width="42" alt="storybook logo" title="StoryBook" />
-  <br>
-  <p>Backend Development</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="30" width="42" alt="nodejs" title="NodeJS"/>
-  <br>
-  <p>Database</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo" title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" width="42" alt="redis logo" title="REDIS" />
-  <br>
-  <p>Framework</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" width="42" alt="django logo" title="Django" />
-  <br>
-  <p>Testing</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" width="42" alt="jest logo" title="JEST" />
-  <br>
-  <p>Software</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo" title="Figma" />
-  <br>
-  <p>Static Site Generators</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" width="47" alt="next logo" title="NEXT.JS" />
-  <br>
-  <p>BaaS</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="42" alt="firebase logo" title="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" height="30" width="42" alt="heroku logo" title="Heroku" />
-</div>
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+### Base de données
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 <h2 align="left">CONTACT</h2> 
 
 ![](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/JacquesPoulin?tab=repositories)
 
-📄 Know about my experiences :
+Si vous souhaitez en savoir plus📄
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacquespoulin/)
 
-📫 How to reach me : 
+Contactez-moi 📫
 
    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=jacques.poulin64@gmail.com)
 </p>
