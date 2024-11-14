@@ -68,4 +68,4 @@ Contactez-moi 📫
    [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=jacques.poulin64@gmail.com)
 </p>
 
-![Snake animation](https://github.com/JacquesPoulin/JacquesPoulin/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JacquesPoulin/JacquesPoulin/blob/output/github-contribution-grid-snake-dark.svg)
